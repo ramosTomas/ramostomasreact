@@ -16,9 +16,14 @@ export default function page() {
     <div>
       <h2>Características do React e Next.js</h2>
       <ul>
-        {caracteristicas.map((caracteristica, i) => {
-          return <li key={i}>{caracteristica}</li>
-        })}
+        {caracteristicas.map((caracteristica) => (
+          <li
+            key={caracteristica}
+            className="transition-all duration-200 hover:text-xl hover:font-bold cursor-pointer"
+          >
+            {caracteristica}
+          </li>
+        ))}
       </ul>
     </div>
   )

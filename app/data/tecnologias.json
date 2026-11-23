@@ -1,0 +1,86 @@
+[
+  {
+    "title": "HTML",
+    "image": "@/public/tecnologias/HTML5.svg",
+    "description": "Linguagem de marcação para estruturar páginas e conteúdos web.",
+    "rating": 5
+  },
+  {
+    "title": "CSS",
+    "image": "css.svg",
+    "description": "Folhas de estilo para definir o layout, cores e tipografia.",
+    "rating": 5
+  },
+  {
+    "title": "Tailwind CSS",
+    "image": "tailwindcss.svg",
+    "description": "Framework CSS utilitário para estilização rápida e responsiva.",
+    "rating": 5
+  },
+  {
+    "title": "JavaScript",
+    "image": "javascript.svg",
+    "description": "Linguagem de programação para interatividade e lógica no browser.",
+    "rating": 5
+  },
+  {
+    "title": "TypeScript",
+    "image": "typescript.svg",
+    "description": "Superset de JavaScript com tipagem estática para maior segurança.",
+    "rating": 5
+  },
+  {
+    "title": "JSON",
+    "image": "json.svg",
+    "description": "Formato leve de troca de dados estruturados entre sistemas.",
+    "rating": 4
+  },
+  {
+    "title": "API RESTful",
+    "image": "api-rest.svg",
+    "description": "Arquitetura para comunicação via HTTP usando métodos como GET e POST.",
+    "rating": 4
+  },
+  {
+    "title": "Swagger",
+    "image": "swagger.svg",
+    "description": "Ferramenta para documentar e testar endpoints de APIs REST.",
+    "rating": 4
+  },
+  {
+    "title": "GitHub",
+    "image": "github.svg",
+    "description": "Plataforma de alojamento de código e controlo de versões com Git.",
+    "rating": 5
+  },
+  {
+    "title": "Codespaces",
+    "image": "codespaces.svg",
+    "description": "Ambiente de desenvolvimento na nuvem integrado no GitHub.",
+    "rating": 4
+  },
+  {
+    "title": "GitHub Pages",
+    "image": "github-pages.svg",
+    "description": "Serviço para publicar sites estáticos diretamente a partir do GitHub.",
+    "rating": 4
+  },
+  {
+    "title": "React.js",
+    "image": "react.svg",
+    "description": "Biblioteca para construir interfaces de utilizador baseadas em componentes.",
+    "rating": 5
+  },
+  {
+    "title": "Next.js",
+    "image": "nextjs.svg",
+    "description": "Framework React com roteamento, SSR/SSG e otimizações para produção.",
+    "rating": 5
+  },
+  {
+    "title": "Vercel",
+    "image": "vercel.svg",
+    "description": "Plataforma de deploy e alojamento otimizada para aplicações Next.js.",
+    "rating": 5
+  }
+]
