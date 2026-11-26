@@ -20,8 +20,6 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
 
-  const data = new Date()
-
   return (
     <html lang="en">
       <body className='flex flex-col justify-start gap-4 p-20 items-center min-h-screen'>
@@ -40,7 +38,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           {children}
         </main>
 
-        <footer>DIW - {data.getFullYear()}</footer>
+        <footer>DIW</footer>
 
       </body>
     </html>
